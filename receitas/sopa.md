@@ -1,8 +1,8 @@
-#Sopa de frango# C:chik
+#Sopa de frango :man_cook:
 
-###Ingredientes###
+###Ingredientes
 
 *negrito*
-_Italico_
+-Italico
 
- - tópicos.
+-tópicos.
